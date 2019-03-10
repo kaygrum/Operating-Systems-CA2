@@ -1,0 +1,2 @@
+mk main.c
+	gcc -o mk main.c
